@@ -1,1 +1,1 @@
-# php-ups-api
+# experimental, do not use
